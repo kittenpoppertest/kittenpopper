@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/home/yonibe/Desktop/Ransomware/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/Ransomware/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/KittenPopper/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/kittenpopper/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/KittenPopper/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/kittenpopper/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/kittenpopper/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/kittenpopper/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/KittenPopper/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/kittenpopper/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/kittenpopper/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/KittenPopper/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/Ransomware/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/KittenPopper/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/Ransomware/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/kittenpopper/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/Ransomware/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/KittenPopper/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/Ransomware/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/kittenpopper/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/KittenPopper/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/Ransomware/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/kittenpopper/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/Ransomware/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/kittenpopper/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/KittenPopper/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/KittenPopper/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/KittenPopper/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/Ransomware/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/Ransomware/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/kittenpopper/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/Ransomware/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/yonibe/Desktop/KittenPopper/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/yonibe/.android/build-cache/bc6ec21aacc3c743e411cfc6d1ed21e223cd7c05/output/res/color/abc_primary_text_material_light.xml"
+    }
+]
